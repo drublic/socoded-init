@@ -39,8 +39,8 @@ module.exports = function(grunt) {
 					'content/header.html',
 					'content/intro.html',
 					'content/dry.html',
-					'content/components.html',
 					'content/boilerplate.html',
+					'content/components.html',
 					'content/init.html',
 					'content/outro.html',
 					'content/footer.html'
