@@ -40,8 +40,8 @@ module.exports = function(grunt) {
 					'content/intro.html',
 					'content/dry.html',
 					'content/boilerplate.html',
-					'content/components.html',
 					'content/init.html',
+					'content/components.html',
 					'content/outro.html',
 					'content/footer.html'
 				],
